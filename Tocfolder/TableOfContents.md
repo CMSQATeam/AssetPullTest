@@ -3,6 +3,7 @@ Unity Manual TOC
 
  - [UnityManual]()
 	 - [Folder_a1]()
+		 - [Node_b](Nodeb.md)
 		 - [Node_a](Nodea.md)
 	 - [UnityManual Overview](UnityManual.md)
 	 - [UnityManual]()
