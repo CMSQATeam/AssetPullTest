@@ -8,3 +8,7 @@
 
  
 
+ ![ARR plug-in import settings as displayed in the Inspector window](Images/AndroidARRPlugins_5c74fe3fa66a08177c1c0ae5.png) 
+
+ 
+
