@@ -1,10 +1,9 @@
-Unity Manual TOC
+Unity Manual ToC
 ================
-
  - [Switching between Unity versions](SwitchingDocumentationVersions.md)
  - [UnityManual]()
-	 - [pushnode](pushnode.md)
 	 - [UnityManual Overview](UnityManual.md)
+	 - [pushnode](pushnode.md)
 	 - [UnityManual]()
 		 - [UnityManual Overview](UnityManual_1.md)
 		 - [ManualVersions](ManualVersions.md)
