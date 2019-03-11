@@ -2,6 +2,7 @@ Unity Manual TOC
 ================
 
  - [UnityManual]()
+	 - [ChapterTwo](ChapterTwo.md)
 	 - [ChapterOne](ChapterOne.md)
 	 - [UnityManual Overview](UnityManual.md)
 	 - [UnityManual]()
