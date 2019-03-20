@@ -7,8 +7,8 @@ Unity Manual ToC
 	 - [UnityManual]()
 		 - [UnityManual Overview](UnityManual_1.md)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
-		 - [Leave Feedback](LeaveFeedback.md)
 		 - [ManualVersions](ManualVersions.md)
+		 - [Leave Feedback](LeaveFeedback.md)
 	 - [InstallingUnity]()
 		 - [InstallingUnity Overview](InstallingUnity.md)
 
