@@ -9,6 +9,6 @@ Unity Manual ToC
 		 - [UnityManual Overview](UnityManual_1.md)
 		 - [ManualVersions](ManualVersions.md)
 		 - [Leave Feedback](LeaveFeedback.md)
-	 - [InstallingUnity]()
 		 - [InstallingUnity Overview](InstallingUnity.md)
+	 - [InstallingUnity]()
 
