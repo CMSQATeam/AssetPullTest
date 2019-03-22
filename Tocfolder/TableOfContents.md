@@ -1,5 +1,6 @@
-Unity Manual ToC
+Unity Manual TOC
 ================
+
  - [UnityManual]()
 	 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
 	 - [ManualVersions](ManualVersions.md)
